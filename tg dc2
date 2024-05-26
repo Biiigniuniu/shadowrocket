@@ -1,0 +1,8 @@
+## Telegram DC2
+DOMAIN,venus.web.telegram.org // HTTP endpoints
+DOMAIN,venus-1.web.telegram.org // HTTP endpoints
+DOMAIN,kws2.web.telegram.org // WSS endpoints
+DOMAIN,kws2-1.web.telegram.org // WSS endpoints
+DOMAIN,zws2.web.telegram.org // WSS endpoints
+DOMAIN,zws2-1.web.telegram.org // WSS endpoints
+IP-ASN,44907,no-resolve // Data Center (🇮🇳IN ➜ 🇪🇺EU)
