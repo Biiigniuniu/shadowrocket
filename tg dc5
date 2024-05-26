@@ -1,0 +1,8 @@
+#tg dc5
+DOMAIN,flora.web.telegram.org // HTTP endpoints
+DOMAIN,flora-1.web.telegram.org // HTTP endpoints
+DOMAIN,kws5.web.telegram.org // WSS endpoints
+DOMAIN,kws5-1.web.telegram.org // WSS endpoints
+DOMAIN,zws5.web.telegram.org // WSS endpoints
+DOMAIN,zws5-1.web.telegram.org // WSS endpoints
+IP-ASN,62014,no-resolve // Data Center (🇸🇬SG)
