@@ -1,8 +1,15 @@
-## Telegram DC1
+## Telegram DC1,3
 DOMAIN,pluto.web.telegram.org // HTTP endpoints
 DOMAIN,pluto-1.web.telegram.org // HTTP endpoints
 DOMAIN,kws1.web.telegram.org // WSS endpoints
 DOMAIN,kws1-1.web.telegram.org // WSS endpoints
 DOMAIN,zws1.web.telegram.org // WSS endpoints
 DOMAIN,zws1-1.web.telegram.org // WSS endpoints
+DOMAIN,aurora.web.telegram.org // HTTP endpoints
+DOMAIN,aurora-1.web.telegram.org // HTTP endpoints
+DOMAIN,kws3.web.telegram.org // WSS endpoints
+DOMAIN,kws3-1.web.telegram.org // WSS endpoints
+DOMAIN,zws3.web.telegram.org // WSS endpoints
+DOMAIN,zws3-1.web.telegram.org // WSS endpoints
+IP-ASN,211157,no-resolve // Data Center (🇷🇺RU ➜ 🇺🇸US)
 IP-ASN,59930,no-resolve // Data Center (🇺🇸US & 🇧🇷BR)
