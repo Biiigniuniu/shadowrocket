@@ -5,4 +5,11 @@ DOMAIN,kws2.web.telegram.org // WSS endpoints
 DOMAIN,kws2-1.web.telegram.org // WSS endpoints
 DOMAIN,zws2.web.telegram.org // WSS endpoints
 DOMAIN,zws2-1.web.telegram.org // WSS endpoints
+DOMAIN,vesta.web.telegram.org // HTTP endpoints
+DOMAIN,vesta-1.web.telegram.org // HTTP endpoints
+DOMAIN,kws4.web.telegram.org // WSS endpoints
+DOMAIN,kws4-1.web.telegram.org // WSS endpoints
+DOMAIN,zws4.web.telegram.org // WSS endpoints
+DOMAIN,zws4-1.web.telegram.org // WSS endpoints
+IP-ASN,62041,no-resolve // Data Center (🇪🇺EU)
 IP-ASN,44907,no-resolve // Data Center (🇮🇳IN ➜ 🇪🇺EU)
